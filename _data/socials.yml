@@ -1,25 +1,28 @@
-# this file contains the social media links and usernames of the author
-# the commented lines are the default social media links supported by the template
-# the socials will be displayed in the order they are defined here
+# This file contains the social media links and usernames of the author. The commented lines are the default social media links supported by the template. 
+# The socials will be displayed in the order they are defined here.
 
-orcid_id: 0000-0002-1871-9078 # your ORCID ID
-scholar_userid: 69xvSfQAAAAJ # your Google Scholar ID
-arxiv_id: sakos_i_1 # your arXiv author ID
+orcid_id: 0000-0002-1871-9078 # ORCiD ID
+scholar_userid: 69xvSfQAAAAJ # Google Scholar ID
+arxiv_id: sakos_i_1 # arXiv Author ID
 academia_edu: 
-  organization: sutd # your organization as appears in the subdomain
-  username:  IosifSakos # your username
-dblp_url: https://dblp.org/pid/271/1082.html # your DBLP profile url
+  organization: sutd # Academia.edu; organization as appears in the subdomain
+  username:  IosifSakos # Academia.edu; username
+dblp_url: https://dblp.org/pid/271/1082.html # DBLP profile url
 
 
-# acm_id: # your dl.acm.org/profile/id
+# Unused social media links
+# acm_id: 99661232210 # dl.acm.org/profile/id
+# cv_pdf: /assets/pdf/iosif-sakos-cv.pdf # path to CV PDF file
+# email: josephsakos@gmail.com # email address
+# github_username: wisp92 # GitHub user name
+# linkedin_username: joseph-sakos-3b3a6a200 # LinkedIn user name
+# research_gate_profile: Iosif-Sakos # profile on ResearchGate
+
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# email: you@example.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -30,14 +33,12 @@ dblp_url: https://dblp.org/pid/271/1082.html # your DBLP profile url
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
