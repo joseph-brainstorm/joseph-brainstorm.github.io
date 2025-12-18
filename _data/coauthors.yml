@@ -1,34 +1,69 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"varvitsiotis":
+  - firstname: ["Antonios", "A."]
+    url: https://sites.google.com/site/antoniosvarvitsiotis/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"piliouras":
+  - firstname: ["Georgios", "George", "G."]
+    url: https://georgiospiliouras.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"sim":
+  - firstname: ["Ryann", "R."]
+    url: https://ryanndelion.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"leon":
+  - firstname: ["Vincent", "V."]
+    url: https://scholar.google.com/citations?user=7DaAjdEAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"leonardos":
+  - firstname: ["Stefanos", "S."]
+    url: https://stefanosleonardos.wordpress.com/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"courcoubetis":
+  - firstname: [
+      "Constantinos Aristotelis", 
+      "Konstantinos Aristotelis",
+      "Constantinos A.", 
+      "Konstantinos A.", 
+      "Constantinos", 
+      "Konstantinos", 
+      "Costas A.",
+      "Costas", 
+      "C. A.",
+      "C."
+    ]
+    url: https://scholar.google.com/citations?user=_vDxlTUAAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"mertikopoulos":
+  - firstname: ["Panayotis", "P."]
+    url: https://scholar.google.com/citations?user=xsusqPYAAAAJ
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"panageas":
+  - firstname: ["Ioannis", "Yannis", "I."]
+    url: https://panageas.github.io/
+    
+"vlatakis-gkaragkounis":
+  - firstname: [
+      "Emmanouil-Vasileios", 
+      "Emmanouil",
+      "Emmanouil V.",
+      "E. V.", 
+      "E."
+    ]
+    url: https://scholar.google.com/citations?user=MKutDKcAAAAJ
+"vlatakis":
+  - firstname: [
+      "Emmanouil-Vasileios", 
+      "Emmanouil",
+      "Emmanouil V.",
+      "E. V.", 
+      "E."
+    ]
+    url: https://scholar.google.com/citations?user=MKutDKcAAAAJ
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"mladenovic":
+  - firstname: ["Andjela", "A."]
+    url: https://scholar.google.com/citations?user=DxqbeGoAAAAJ
+    
+"gidel":
+  - firstname: ["Gauthier", "G."]
+    url: https://gauthiergidel.github.io/
