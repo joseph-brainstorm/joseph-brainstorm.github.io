@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I am actively involved in graduate-level teaching in optimization, games, and learning. In January 2025, I was a co-facilitator for <i>Optimization for Data Science</i> (with <a href='https://sites.google.com/site/antoniosvarvitsiotis/'>Antonios Varvitsiotis</a>). 
+In September 2025, I served as a teaching fellow for <i>Special Topics in Games, Learning, and Optimization</i> (with <a href='https://anasbarakat.github.io/'>Anas Barakat</a> and <a href='https://jlazarsfeld.github.io/'>John Lazarsfeld</a>), for which we developed <a href='https://learning-in-games.github.io/'>a complete course website</a>. 
+My teaching emphasizes mathematical rigor, conceptual clarity, and the unifying role of optimization in learning and strategic interaction.
