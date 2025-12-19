@@ -81,6 +81,13 @@ ninja.data = [{
           window.open("https://dblp.org/pid/271/1082.html", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/joseph-sakos-3b3a6a200", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
