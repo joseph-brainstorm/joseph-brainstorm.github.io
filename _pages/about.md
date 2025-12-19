@@ -28,7 +28,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 My name is Iosif (aka Joseph).
-I am a Research Fellow at <a href='https://www.sutd.edu.sg/'>SUTD</a> working with <a href='https://sites.google.com/site/antoniosvarvitsiotis/'>Antonios Varvitsiotis</a> and <a href='https://georgiospiliouras.com/'>Georgios Piliouras</a>.
+I am a Research Fellow at <a href='https://www.sutd.edu.sg/'>SUTD</a> working with <a href='https://sites.google.com/site/antoniosvarvitsiotis/'>Antonios Varvitsiotis</a>.
 My research lies at the intersection of algorithmic game theory and nonconvex optimization, with a primary focus on learning and equilibration in strategic multi-agent environments.
 
 <h2>Research Overview</h2>
