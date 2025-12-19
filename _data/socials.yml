@@ -8,6 +8,7 @@ academia_edu:
   organization: sutd # Academia.edu; organization as appears in the subdomain
   username:  IosifSakos # Academia.edu; username
 dblp_url: https://dblp.org/pid/271/1082.html # DBLP profile url
+linkedin_username: joseph-sakos-3b3a6a200 # LinkedIn user name
 
 
 # Unused social media links
@@ -15,8 +16,8 @@ dblp_url: https://dblp.org/pid/271/1082.html # DBLP profile url
 # cv_pdf: /assets/pdf/iosif-sakos-cv.pdf # path to CV PDF file
 # email: josephsakos@gmail.com # email address
 # github_username: wisp92 # GitHub user name
-# linkedin_username: joseph-sakos-3b3a6a200 # LinkedIn user name
 # research_gate_profile: Iosif-Sakos # profile on ResearchGate
+
 
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
