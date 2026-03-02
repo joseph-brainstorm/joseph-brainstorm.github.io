@@ -6,7 +6,7 @@
     "email": "josephsakos@gmail.com",
     "phone": "(+65) 84377863",
     "url": "https://joseph-brainstorm.github.io",
-    "summary": "Research Fellow at Singapore University of Technology and Design working on algorithmic game theory and nonconvex optimization. My research focuses on learning and equilibration in strategic multi-agent environments with structural algebraic properties that facilitate analysis and algorithm design.",
+    "summary": "Research Fellow at the Singapore University of Technology and Design (SUTD). My research focuses on optimization for classical and quantum AI at the intersection of algorithmic game theory and Sum-of-Squares (SOS) optimization, with applications to learning and equilibration in strategic multi-agent systems and to training parameterized quantum circuits.",
     "location": {
       "address": "68 Jalan Pergam",
       "postalCode": "488344",
@@ -31,23 +31,15 @@
     {
       "name": "Singapore University of Technology and Design",
       "location": "Singapore",
-      "position": "Senior Research Assistant",
-      "url": "https://www.sutd.edu.sg/",
-      "startDate": "2024-08-01",
-      "endDate": "2024-09-01",
-      "summary": null,
-      "highlights": []
-    },
-    {
-      "name": "Singapore University of Technology and Design",
-      "location": "Singapore",
       "position": "Research Fellow",
       "url": "https://www.sutd.edu.sg/",
       "startDate": "2024-09-01",
       "endDate": null,
       "summary": "Research Fellow supported under CQT++ Core Research Funding Grant (RS-NRCQT-00003-E0701).",
       "highlights": [
-        "Also served as a Co-facilitator and Teaching Fellow in Spring and Fall 2025."
+        "Served as Teaching Fellow, 40.002 Optimization.",
+        "Served as Teaching Fellow, 40.616 Special Topics in Games, Learning, and Optimization.",
+        "Serve as Co-Facilitator, 42.520 Optimization for Data Science."
       ]
     }
   ],
@@ -84,19 +76,17 @@
       "keywords": [
         "Algorithmic Game theory",
         "Multi-agent Systems",
-        "Multi-agent Learning",
-        "Game Dynamics"
+        "Learning in Games"
       ]
     },
     {
       "name": "Optimization",
       "level": "Expert",
       "keywords": [
+        "Optimization for Classical and Quantum AI",
         "Polynomial Optimization", 
         "Sum-of-Squares Optimization", 
-        "Semidefinite Programming", 
-        "Gradient-based Methods",
-        "Quantum Optimization"
+        "Semidefinite Programming"
       ]
     },
     {
@@ -104,7 +94,8 @@
       "level": "Advanced",
       "keywords": [
         "Julia", 
-        "Python"
+        "Python", 
+        "MATLAB"
       ]
     }
   ],
